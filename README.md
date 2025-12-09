@@ -20,7 +20,7 @@ I'm a **Software Developer** passionate about building clean, modern application
 
 ### 🛠️ Languages & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,springboot,react,mysql,intellij,vscode,git,github,firebase,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,spring-boot,react,mysql,intellij,vscode,git,github,firebase,idea&theme=dark" />
 </p>
 
 --- 

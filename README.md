@@ -13,11 +13,6 @@ I'm a **Software Developer** passionate about building clean, modern application
 
 ---
 
-### 🔗 Connect with Me
-[LinkedIn](YOUR_LINK) • [Portfolio](YOUR_FUTURE_WEBSITE) • [Email](mailto:YOUR_EMAIL)
-
----
-
 ### 🛠️ Languages & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=java,py,js,html,css,spring,react,mysql,supabase,idea,vscode,git,github,firebase,figma,notion,obsidian&theme=dark" />

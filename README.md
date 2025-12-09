@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋🏽 Hi, I'm Markus!
 
-<!--
-**FullStackMWilliams/FullStackMWilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer** passionate about building clean, modern applications across web, mobile, and backend.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently working on **Java applications, React projects, and mobile design**
+- 📚 Learning **Spring Boot, Firebase, TypeScript**
+- 🤝 Open to collaborating on **full-stack projects and open-source**
+- 🎯 2025 Goals: Build my portfolio website, ship 3 major projects, and contribute to open source
+- ⚡ Fun fact: I love tech, gaming, and creating clean UI experiences
+
+---
+
+### 🔗 Connect with Me
+[LinkedIn](YOUR_LINK) • [Portfolio](YOUR_FUTURE_WEBSITE) • [Email](mailto:YOUR_EMAIL)
+
+---
+
+### 🛠️ Languages & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css,git,github,sqlite,firebase,vscode,idea&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+![Markus GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---

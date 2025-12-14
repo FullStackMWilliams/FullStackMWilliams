@@ -5,7 +5,7 @@ I'm a **Software Developer** passionate about building clean, modern application
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Web applications, fullstack projects, and system design**
+- 🔭 I’m currently working on **Web applications, fullstack projects, and system designs.**
 - 📚 Learning **Spring Boot, Firebase, TypeScript**
 - 🤝 Open to collaborating on **full-stack projects and open-source**
 - 🎯 2025 Goals: Build my portfolio website, ship 3 major projects, and contribute to open source

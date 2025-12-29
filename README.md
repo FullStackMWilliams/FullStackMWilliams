@@ -9,7 +9,7 @@ I'm a **Software Developer** passionate about building clean, modern application
 - 📚 Learning **Spring Boot, Firebase, TypeScript.**
 - 🤝 Open to collaborating on **full-stack projects and open-source.**
 - 🎯 2026 Goals: Build my portfolio website, ship 3 major projects, and contribute to 1 open source project.
-- ⚡ Fun fact: I love tech, gaming, and creating clean UI experiences.
+- ⚡ **Fun fact**: I love tech, gaming, and creating clean UI experiences.
 
 ---
 
